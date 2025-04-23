@@ -1,0 +1,45 @@
+﻿@model StudentManagementSystem.Models.User
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>User Details</h2>
+<hr />
+<div class="dl-horizontal">
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+    </dl>
+
+    <div class="d-flex mt-4">
+
+        <a href="/User/Index" class="btn btn-secondary">Back</a>
+
+    </div>
+
+</div>
+
+
+

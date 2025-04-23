@@ -1,0 +1,33 @@
+﻿@model StudentManagementSystem.Models.Course
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Course Details</h2>
+<hr />
+<div class="dl-horizontal">
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CourseName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Duration)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Duration)
+        </dd>
+    </dl>
+
+    <div class="mb-2 row">
+        <div class="col-md-10 ">
+            <a href="/Course/Index" class="btn btn-primary">Back</a>
+        </div>
+    </div>
+
+</div>
+
+
+

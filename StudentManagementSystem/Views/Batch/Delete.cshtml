@@ -1,0 +1,38 @@
+﻿@model StudentManagementSystem.Models.Batch
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Batch</h2>
+<hr />
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BatchName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BatchName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+    </dl>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="d-flex mt-4">
+            <button type="submit" class="btn btn-primary">Delete</button>
+            <div class="ms-2">
+                <a href="/Batch/Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </div>
+    }
+</div>
+
+
+
+

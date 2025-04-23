@@ -1,0 +1,33 @@
+﻿@model StudentManagementSystem.Models.Batch
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Batch Details</h2>
+<hr />
+<div class="dl-horizontal">
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.BatchName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BatchName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+    </dl>
+
+    <div class="d-flex mt-4">
+        
+            <a href="/Batch/Index" class="btn btn-secondary">Back</a>
+        
+    </div>
+
+</div>
+
+
+

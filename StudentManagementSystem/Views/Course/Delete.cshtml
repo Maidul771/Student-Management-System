@@ -1,0 +1,38 @@
+﻿@model StudentManagementSystem.Models.Course
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Course</h2>
+<hr />
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CourseName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Duration)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Duration)
+        </dd>
+    </dl>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3 row">
+            <div class="col-md-offset-2 col-md-10">
+                <button type="submit" class="btn btn-primary">Delete</button>
+                <a href="/Course/Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </div>
+    }
+</div>
+
+
+
+

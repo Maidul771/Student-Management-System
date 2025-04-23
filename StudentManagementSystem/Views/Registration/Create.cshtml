@@ -1,0 +1,57 @@
+﻿@model StudentManagementSystem.Models.Registration
+@{
+    ViewBag.Title = "Create";
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+<div class="container mt-4">
+    <h2>Create Registration</h2>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-dander" })
+
+    <div class="form">
+        @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter FirstName" } })
+        @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+    </div>
+    <div class="form mt-3">
+        @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter LastName" } })
+        @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form mt-3">
+        @Html.LabelFor(model => model.CourseId, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.DropDownList("CourseId", ViewBag.CourseId as SelectList, "-- Select Course --", new { @class = "form-control" })
+    </div>
+    <div class="form mt-3">
+        @Html.LabelFor(model => model.BatchId, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.DropDownList("BatchId", ViewBag.BatchId as SelectList, "-- Select Batch --", new { @class = "form-control" })
+    </div>
+
+
+    <div class="form mt-3">
+        @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter PhoneNumber" } })
+        @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+    </div>
+    <div class="form mt-3">
+        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter Email" } })
+        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+    </div>
+    <div class="form mt-3">
+        @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter Address" } })
+        @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+    </div>
+    <div class="d-flex mt-4">
+        <button type="submit" class="btn btn-primary">Create</button>
+        <div class="ms-2">
+            <a href="/Registration/Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </div>
+
+</div>
+}
