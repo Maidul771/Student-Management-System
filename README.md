@@ -35,7 +35,7 @@ A web-based **Student Management System** built using **ASP.NET MVC**. This appl
 - Scripts/ # JavaScript and jQuery
 - Web.config # Application configuration and DB connection
 ## Screenshots
-![App Screenshot](https://github.com/Maidul771/Student-Management-System/blob/cbb5e9a6af497da9e397b36488401bd309faf3c9/Login.png)
+![Login page](https://github.com/Maidul771/Student-Management-System/blob/cbb5e9a6af497da9e397b36488401bd309faf3c9/Login.png)
 
 ![App Screenshot](https://github.com/Maidul771/Student-Management-System/blob/397d190811da2399e0ddd6bff5780ef767a545b3/User%20List.png)
 
