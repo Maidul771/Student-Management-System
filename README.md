@@ -35,7 +35,7 @@ A web-based **Student Management System** built using **ASP.NET MVC**. This appl
 - Scripts/ # JavaScript and jQuery
 - Web.config # Application configuration and DB connection
 ## Screenshots
-![App Screenshot](https://media-hosting.imagekit.io/d17d5c859a414c7d/Login.png?Expires=1841164600&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=FjVBpZI-MEgokEiGSh1w6Un6hTk4UWR3PvU0YmoRynV6AWjP6WCSyb1zjDzm5ILFJQsB~PLI3P90tXlhNUiJBMe3yXw1FZZ~E2~3atO4qz0FNrxGKCBmt53P86L4aLJ5a4FaKiTzJ3twoR7f8KWmWj141WMSIFfQY5qRVHpPr9IBzd72eLKArSMdMjJinlXUG1JYOBgp4X7tCHnJNyNoZQaxEb2iQwolp3xjmwAn07fI2tiH8xZ9VCt5wfin5RhFirFWK~HVL6CD-th1WZcX~wfTSTDv1RVCurteno9cf7H7EViNy-F419uOUpJW8pr6-UKi9-gAcG7oQhRapn3YsA__)
+![App Screenshot](https://github.com/Maidul771/Student-Management-System/blob/cbb5e9a6af497da9e397b36488401bd309faf3c9/Login.png)
 
 ![App Screenshot](https://media-hosting.imagekit.io/71f9731bccca49aa/User%20List.png?Expires=1841164728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=d4wn41RYSZCxoa-uiwm85VrgDFap1TFqZmNU14XSyeQIT4~FMDwB8WlmsFS-N7qjkhC0aUmjFl~6vYEkeRhHDGtyv3S-oByZJQ95-xGnivDg2-FFUYETuS4ILa2Wz4gLYa639I4anbfpfy~jME6MNM~7rtqd4IQXgTmv9dIYfQhUuYArk7G4Klde4rcCqlBCR~g7p3VepxSvh4cYsJnQAQD6G~xEsfd1Le4BY83biAoq9HSpGmW2jGqAmak4IBcqodacBDIM8WqHqsmpjN~z8ot-t8JlhBX~C-kYmyL-s3C33qn4bct0JbAv1~dOh19A8MBrRXSB-kCejmRkL2DvUw__)
 
