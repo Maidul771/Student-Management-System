@@ -43,7 +43,7 @@ A web-based **Student Management System** built using **ASP.NET MVC**. This appl
 
 ![Edit User](https://github.com/Maidul771/Student-Management-System/blob/f2493a421d65b30f5015fd8730df0fd8f7baf8ae/User%20Edit.png)
 
-![App Screenshot](https://media-hosting.imagekit.io/5338727eb3ba4ae0/User%20Details.png?Expires=1841164728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sxgQ1f6ZJhsRYD1AMNB6n4-YuinMFom0QqB1ew3rV6rnG6Op-ufuzyaV9p12XuZpNbhNLOVrg2tYoWBGvKocYmDy8Ii~rqDzTAmH44iikDJH8mf2p2BVlOwfebughBv5S2nPc24psx1Bw9t1BXIWOAU9ktJmE~EAGuPm~yOd0kXDkwDePsaHgouc9hb9oxTDIvC~MAH0m1SON9t01DFJ8O2B3EWGabzAF9Su04VnPoaXIsMAfCwBAQQP7Zdy4s2xFXLLYZ7FZmbmQzAgMbOrZ88jiV95knp7AXPxGNZvVL2o3EUqC7fBKpeTeQLJymOooaQSdHAdzqgltm81NxI0Iw__)
+![User Details](https://github.com/Maidul771/Student-Management-System/blob/a6a9ba07cfb1b4a977b16d995c6040068628abe9/User%20Details.png)
 
 ![App Screenshot](https://media-hosting.imagekit.io/e87ea078576d4684/User%20Delete.png?Expires=1841164728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OKDEWC48rFidIL33AA3igxrwc77kI~ramRgTcxV34ZsAuOLoSl9WVRiP~DUGrsK1fGa9laK5JB7Dszl0q6Lbh0G44OAh85ypmL6xE9BzzGU67HFHN5cWVFssj8AlOS0jOKh7tBJ2y6oVodpd9YH4wuV4b86HoBsJIBlmgmhre3U2XxXghSMrwrLWCvMde26ezjMSgagH-oZKOR64~KD0RjYCdkmTrwV~X29jrM~wUNGQ6bh~wxT4GzB26TH9VdWZ5IXfnWZVDv7ADd650eCKqoRAuMCKlJK2Axeybc1P4-1ykdOGGLNRgtRgz9WA2owr07Ai1sPJZdUuIKNxd2IVKQ__)
 
