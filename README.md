@@ -53,4 +53,4 @@ A web-based **Student Management System** built using **ASP.NET MVC**. This appl
 
 ![Registration List](https://github.com/Maidul771/Student-Management-System/blob/c55c40624f61ad30a49f3932605c0d48d5ac47d7/Registration%20List.png)
 
-![App Screenshot](https://media-hosting.imagekit.io/23e0bc96d8b8481c/Database.png?Expires=1841164728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uAeZSimVAc9ba4eBHATc1qxvjGvusse9sGRKLZ-sLHdoXXOf-RjRjdm10MfcdfnV8LN8LZH6V7gAbNQg-GuTzfww-28pZ9W1MQKNDS6~169NwyCJzsLvEORBOt9UmnojQyLg5zT-yKdLvrwR1eAFXtnmvNypqeur2lA6O4lS3wcVoXcw3~qECHaEml4RBYMuYUhLxtcyqYDmS280YD5xxl68Of~p1qjxJBNlHReHmhWWFkYdWmFhfB8r4YWZv8NKWwKco4CQIAIh8CbyTDOC6zgOFqJFb1OfGjCQOcCbrfSKgY8p2mBS9E-YATtLCb8W0o9EgMtA7uAHMR30ClU9TQ__)
+![Database](https://github.com/Maidul771/Student-Management-System/blob/87e80565be1148d92411ef3d8cb42f42799efaf1/Database.png)
