@@ -49,7 +49,7 @@ A web-based **Student Management System** built using **ASP.NET MVC**. This appl
 
 ![Batch List](https://github.com/Maidul771/Student-Management-System/blob/77bb836919f14970c795e15bfc864b456ea1ee10/Batch%20List.png)
 
-![App Screenshot](https://media-hosting.imagekit.io/7ae3583234e54416/Batch%20List.png?Expires=1841164728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Owlp8KEujwQBqk7yq~iwKFBr4ZIhr7iT0boT~oanGiRoJbGdMpfqp0H7hbpcVHRENSFkDtd8PhBY6QbMg080NnUp65xau-dNfILuBsBdQorqE-zTx1MLVfibA80VlWpP51z1C8bYE~EknLkFWfJOtnthpTUOYfLanScYK7scq~ATmdsiJeBhzeHj0c5rGb6LpNMLN3LZWC2g3GbEg~oIl2EuFJPVTGvQJ0KLyo~mHfb4rU62eaB0iRlbLKynoQulsstOGx9K8ZDCCz5XAGRPMGUW-JoEygyWYDuzqW6AAKZYSv8EfmIVTeeLBHWbZmqihqqVzZClXgoP7cA4LDNJ6Q__)
+![Course List](https://github.com/Maidul771/Student-Management-System/blob/7116c7d288f1edc2738b8b4d3d5e95184cabdce6/Course%20List.png)
 
 ![App Screenshot](https://media-hosting.imagekit.io/d4a04a7479414106/Registration%20List.png?Expires=1841164728&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=LJqorwnC1S4-JNPeyWJ1B5ferE1rWlbMvqF6NrpGauYMYXVxFm0~J1CNfsVZFOINFVJLIw2on3IG~7t0vwropUC38Npu01xfaG59JXSgNkx~rymIt-3G5WcU~KqM3Gk9oYnf-GKaLfGVhxbnX03QDclzJTJDzQGqRgILISohvORNavcL5WWyBnYfOzxGUNEF32kGqpsczkeGYfWe44KF8721X5Pn86BYOUWC8IwGiFJbpafrSnVXMdt38hJcY6z2rr32Awc6P3xlW49Jjo~d4zoc9KZwuwO~0xJoMvT06dbvpLF64Qmyz8N~YN-ddQixQaaRroDnkuug--FBzpj5Gw__)
 
